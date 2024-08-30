@@ -43,10 +43,6 @@ python treasure_hunt_game.py
 - Reach the final stage and choose the correct door to win the game.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Author
 
 - GitHub: [@HS160](https://github.com/HS160)
