@@ -42,9 +42,6 @@ python treasure_hunt_game.py
 - If you make a wrong choice, the game ends.
 - Reach the final stage and choose the correct door to win the game.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/HS160/treasure-hunt-game/issues) if you want to contribute.
 
 ## License
 
